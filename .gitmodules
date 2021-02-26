@@ -1,0 +1,3 @@
+[submodule "xml2proto"]
+	path = xml2proto
+	url = https://github.com/brinkqiang2protobuf/xml2proto.git
